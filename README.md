@@ -24,7 +24,7 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available 
+The main findings of the code can be found at the post available [here](https://medium.com/@haleyxu816/use-airbnb-data-to-find-another-side-of-seattle-9c1624e05f17)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 

@@ -23,7 +23,9 @@ For this project, I was interestested in using Seattle Airbnb data to better und
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
-
+1. January is the busiest season to visit Seattle and it has the lowest price level in the whole year. July is the second busiest season to visit Seattle but it has the highest price level in the whole year.
+2. Numeric features of a listing like accommodates, number of reviews, average review score, price seem don’t related to the probability of the listing being booked. On other hand, categorical features look like more related. Listings in Cascade is relatively more popular than other neighborhoods. Entire Condominium is relatively more popular property type.
+3. Different neighborhoods have different keywords. For example, Capitol hill is quiet and has many nice restaurants. Downtown has many attractions. Travelers can choose living neighborhood based on their preference.
 The main findings of the code can be found at the post available [here](https://medium.com/@haleyxu816/use-airbnb-data-to-find-another-side-of-seattle-9c1624e05f17)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
